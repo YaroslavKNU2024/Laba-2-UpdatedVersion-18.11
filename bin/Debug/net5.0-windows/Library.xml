@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MyRoot>
+	<Book ID="1" BK_NAME="A"
+			AU ="IVAN"
+			AN ="anoth1"
+			PUB="pub1"
+			FAC="fac1"
+			DE="dep1"
+			POS="pos1">
+	</Book>
+	<Book ID="12" BK_NAME="A1"
+			AU ="IVAN"
+			AN ="anoth11"
+			PUB="pub11"
+			FAC="fac11"
+			DE="dep11"
+			POS="pos11">
+	</Book>
+	<Book ID="13" BK_NAME="A2"
+			AU ="IVAN"
+			AN ="anoth12"
+			PUB="pub12"
+			FAC="fac12"
+			DE="dep12"
+			POS="pos12">
+	</Book>
+	<Book ID="2" BK_NAME="B"
+			AU ="NICK"
+			AN ="anoth2"
+			PUB="pub2"
+			FAC="fac2"
+			DE="dep2"
+			POS="pos2">
+	</Book>
+	<Book
+		ID="3"
+		BK_NAME="C"
+		AN ="anoth3"
+		PUB="pub3"
+		AU ="MARY"
+		FAC="fac3"
+		DE="dep3"
+		POS="pos3">
+	</Book>
+	<!--<Book ID="1" BK_NAME="A">
+		<public_properties
+			AU ="IVAN"
+			AN ="anoth1"
+			PUB="pub1">
+			Text1
+		</public_properties>
+		<for_readers
+			AU="IVAN"
+			FAC="fac1"
+			DE="dep1"
+			POS="pos1">
+			Text12
+		</for_readers>
+	</Book>
+	<Book ID="12" BK_NAME="A1">
+		<public_properties
+			AU ="IVAN"
+			AN ="anoth11"
+			PUB="pub11">
+			Text1
+		</public_properties>
+		<for_readers
+			AU="IVAN"
+			FAC="fac11"
+			DE="dep11"
+			POS="pos11">
+			Text12
+		</for_readers>
+	</Book>
+	<Book ID="13" BK_NAME="A2">
+		<public_properties
+			AU ="IVAN"
+			AN ="anoth12"
+			PUB="pub12">
+			Text1
+		</public_properties>
+		<for_readers
+			AU="IVAN"
+			FAC="fac12"
+			DE="dep12"
+			POS="pos12">
+			Text12
+		</for_readers>
+	</Book>
+	<Book ID="2" BK_NAME="B">
+		<public_properties
+			AU ="NICK"
+			AN ="anoth2"
+			PUB="pub2">
+			Text2
+		</public_properties>
+		<for_readers
+			AU ="NICK"
+			FAC="fac2"
+			DE="dep2"
+			POS="pos2">
+			Text22
+		</for_readers>
+	</Book>
+	<Book ID="3" BK_NAME="C">
+		<public_properties
+			AU ="MARY"
+			AN ="anoth3"
+			PUB="pub3">
+			Text3
+		</public_properties>
+		<for_readers
+			AU ="MARY"
+			FAC="fac3"
+			DE="dep3"
+			POS="pos3">
+			Text32
+		</for_readers>
+	</Book>-->
+	<!--<Book ID="2" BK_NAME="B">
+		<public_properties>
+			<author AU ="NICK"/>
+			<anotation AN ="anoth2"/>
+			<qualification_properties PUB="pub2"/>
+		</public_properties>
+		<for_readers>
+			<author AU ="NICK"/>
+			<faculty FAC="fac2"/>
+			<department DE="dep2"/>
+			<position POS="pos2"/>
+		</for_readers>
+	</Book>
+	<Book ID="3" BK_NAME="C">
+		<public_properties>
+			<author AU ="MARY"/>
+			<anotation AN ="anoth3"/>
+			<qualification_properties PUB="pub3"/>
+		</public_properties>
+		<for_readers>
+			<author AU ="MARY"/>
+			<faculty FAC="fac3"/>
+			<department DE="dep3"/>
+			<position POS="pos3"/>
+		</for_readers>
+	</Book>-->
+
+</MyRoot>
+
+
+<!--<Book ID="2" BK_NAME="B">
+		<author AU ="NICK"/>
+		<anotation AN ="anoth2"/>
+		<publisher PUB="pub2"/>
+		<reader RE ="MASHA"/>
+		<faculty FAC = "METH"/>
+	</Book>
+	<Book ID="3" BK_NAME="C">
+		<author AU ="MARY"/>
+		<anotation AN ="anoth3"/>
+		<publisher PUB="pub3"/>
+		<reader RE ="ANGY"/>
+		<faculty FAC = "HUMANITARIAN"/>
+	</Book>
+	<Book ID="4" BK_NAME="D">
+		<author AU ="FOO"/>
+		<anotation AN ="anoth4"/>
+		<publisher PUB="pub4"/>
+		<reader RE ="BAR"/>
+		<faculty FAC = "SCI"/>
+	</Book>-->
